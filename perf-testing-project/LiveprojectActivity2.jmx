@@ -30,7 +30,7 @@
           <collectionProp name="HeaderManager.headers">
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">Authorization</stringProp>
-              <stringProp name="Header.value">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</stringProp>
+              <stringProp name="Header.value">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</stringProp>
             </elementProp>
           </collectionProp>
         </HeaderManager>
@@ -53,7 +53,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="sshKey" elementType="Argument">
               <stringProp name="Argument.name">sshKey</stringProp>
-              <stringProp name="Argument.value">ssh-rsa ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6B9UXiiPKhA134g+ZvVO9oqIEOL+lDDpefHMhPbQ6P+RkRnjYpMhAP3PQe+Hk3M9aHLTawUTWgHsMpOvL1IVTc6QG1DEq6MzWAmhtA0d65jJAmp48iyx89fYz8KirAidxaG9rv9MBflox26K1Ye8g7enijn9WAqmTXN32CVYIxVg1Sj+6VPiE+BGfCzrbskNRzOzguVtux/DzEJ2v36ZP47Rquj5dRdzyUUVYG3s4wesUEIVu01wfScd8m/t3LU1YgXsoWU+UW4n7C3R9OHd1/rqftgMy0aBUR/lZKnl3IY3K3+sZE+J3LYTC0/p6MtIAj8ZQVzch+Vz7YIVzdSrN6WW+slOmCxrUshotmJMekhESLh</stringProp>
+              <stringProp name="Argument.value">ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH6B9UXiiPKhA134g+ZvVO9oqIEOL+lDDpefHMhPbQ6P</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
